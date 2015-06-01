@@ -1,5 +1,7 @@
 # vagrant-ansible-serverspec
 
+[![Build Status](https://travis-ci.org/tenten0213/vagrant-ansible-serverspec.svg?branch=master)](https://travis-ci.org/tenten0213/vagrant-ansible-serverspec)
+
 [Ansible](http://www.ansible.com/home)、[Serverspec](http://serverspec.org) を利用できる最低限の環境を、[VirtualBox](https://www.virtualbox.org/) 上に [Vagrant](https://www.vagrantup.com/) を用いて構築する。
 
 プロキシサーバが存在する企業内LANで、ホストOSがWindowsであることを想定している。
